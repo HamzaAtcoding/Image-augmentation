@@ -1,5 +1,5 @@
 # Image-augmentation
-Image augmenter for creating various augmentated images of a single image. Basic usage can be pointed down to **create a dataset** which suffers from image limitation
+Image augmenter for creating various augmented images of a single image. Basic usage can be pointed down to **create a dataset** which suffers from image limitation
 ## Required Dependencies
 Keras  
 Scikit-learn  
